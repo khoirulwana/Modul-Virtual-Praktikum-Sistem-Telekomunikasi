@@ -31,3 +31,7 @@ Beberapa Tangkapan Layar :
 <h3 align="center">Osilator RF</h3>
 
 ![Osilator Capture](https://user-images.githubusercontent.com/48252744/153156464-d944978a-b46a-47e6-975f-baaf3d736c07.PNG)
+
+
+**Rancangan ini masih perlu banyak perbaikan dan penambahan
+Bagi siapa saja yang ingin mengembangkan rancangan ini dipersilahkan untuk memodifikasi atau menghubungi.**

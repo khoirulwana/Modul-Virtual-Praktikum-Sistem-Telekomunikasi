@@ -34,4 +34,4 @@ Beberapa Tangkapan Layar :
 
 
 **Rancangan ini masih perlu banyak perbaikan dan penambahan
-Bagi siapa saja yang ingin mengembangkan rancangan ini dipersilahkan untuk memodifikasi atau menghubungi.**
+Bagi siapa saja yang ingin mengembangkan rancangan ini dipersilahkan untuk memodifikasi.**
